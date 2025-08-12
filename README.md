@@ -21,6 +21,7 @@ JavaScript (Node.js, React, Next.js) • TypeScript • HTML/CSS • TailwindCSS
 - **[terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform)** 🏗️ – Modular, production-grade cloud infrastructure with Terraform, GitHub Actions, and Helm.
 - **[python-go-sre-utils](https://github.com/WBHankins93/python-go-sre-utils)** 🐍 – Collection of SRE-focused automation scripts in Python and Go.
 - **[deployment-patterns](https://github.com/WBHankins93/deployment-patterns)** 🚀 – Reference implementations of common deployment strategies, with scripts and guides.
+- **[gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops)** ☸️ – GitOps-driven GKE (Google Kubernetes Engine) deployment framework using ArgoCD and Terraform.
 
 ---
 
