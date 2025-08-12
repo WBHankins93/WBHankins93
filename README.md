@@ -1,7 +1,7 @@
 # Hi, I'm Ben Hankins 👋
 **Senior SRE / DevOps Engineer | Fullstack Developer | Automation Wizard 🪄**
 
-I design, build, and secure cloud platforms that scale — combining deep experience in **Terraform, Kubernetes, CI/CD, and observability** with a developer’s eye for automation and UX.  
+I design, build, and secure cloud platforms that scale, combining deep experience in **Terraform, Kubernetes, CI/CD, and observability** with a developer’s eye for automation and UX.  
 My background blends **infrastructure reliability** with **fullstack product delivery**, giving me the unique ability to create systems that are not only resilient and secure, but also intuitive and delightful to use.
 
 ---
