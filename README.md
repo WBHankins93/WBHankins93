@@ -24,6 +24,7 @@ JavaScript (Node.js, React, Next.js) • TypeScript • HTML/CSS • TailwindCSS
 - **[python-go-sre-utils](https://github.com/WBHankins93/python-go-sre-utils)** 🐍 – Collection of SRE-focused automation scripts in Python and Go.
 - **[deployment-patterns](https://github.com/WBHankins93/deployment-patterns)** 🚀 – Reference implementations of common deployment strategies, with scripts and guides.
 - **[gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops)** ☸️ – GitOps-driven GKE (Google Kubernetes Engine) deployment framework using ArgoCD and Terraform.
+- **[mlops-sre-mini](https://github.com/WBHankins93/mlops-sre-mini)** 📊 – End-to-end MLOps + SRE demo: train a model, serve with FastAPI, containerize, deploy via Helm, monitor with Prometheus/Grafana, and automate CI/CD on GitHub Actions.
 
 ---
 
