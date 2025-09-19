@@ -34,17 +34,41 @@ Node.js • React • Next.js • TypeScript • HTML/CSS • TailwindCSS • RE
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Project
 
-🏗️ **[terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform)** – Modular, production-grade cloud infrastructure with Terraform, GitHub Actions, and Helm
+## [DevOps Studio - Infrastructure Learning Platform](https://github.com/WBHankins93/devops-studio)
+> **Production-ready infrastructure automation with hands-on learning labs**
 
-🚀 **[deployment-patterns](https://github.com/WBHankins93/deployment-patterns)** – Reference implementations of common deployment strategies, with scripts and comprehensive guides
+[![Terraform](https://img.shields.io/badge/Terraform-1.5+-7B68EE?logo=terraform)](https://terraform.io)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazon-aws)](https://aws.amazon.com)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/WBHankins93/devops-studio/blob/main/LICENSE)
 
-🐍 **[python-go-sre-utils](https://github.com/WBHankins93/python-go-sre-utils)** – Collection of SRE-focused automation scripts and utilities
+**Currently Available:**
+- 🏗️ **Lab 01: Terraform Foundations** - Complete 3-tier AWS infrastructure with VPC, Auto Scaling, and RDS
+- ⚡ **Production Patterns** - Real enterprise architecture, not toy examples
+- 🔒 **Security First** - IAM roles, encrypted storage, network isolation
+- 📊 **Full Automation** - One-command deployment with comprehensive testing
+- 💰 **Cost Conscious** - Right-sized for learning with automated cleanup
 
-☸️ **[gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops)** – GitOps-driven GKE deployment framework using ArgoCD and Terraform
+**Coming Soon:** Kubernetes Platform • CI/CD Pipelines • Observability Stack • Platform Engineering
 
-📊 **[mlops-sre-mini](https://github.com/WBHankins93/mlops-sre-mini)** – End-to-end MLOps + SRE demo: model training, FastAPI serving, containerization, Helm deployment, and monitoring
+**Tech Stack:** Terraform • AWS • Infrastructure as Code • Auto Scaling • RDS • CloudWatch
+
+[🔗 **Explore the Platform**](https://github.com/WBHankins93/devops-studio) | [📚 **Try Lab 01**](https://github.com/WBHankins93/devops-studio/tree/main/labs/01-terraform-foundations)
+
+---
+
+# 📌 Other Featured Projects
+
+🏗️ [**terraform-infra-platform**](https://github.com/WBHankins93/terraform-infra-platform) – Modular, production-grade cloud infrastructure with Terraform, GitHub Actions, and Helm
+
+🚀 [**deployment-patterns**](https://github.com/WBHankins93/deployment-patterns) – Reference implementations of common deployment strategies, with scripts and comprehensive guides
+
+🔧 [**python-go-sre-utils**](https://github.com/WBHankins93/python-go-sre-utils) – Collection of SRE-focused automation scripts and utilities
+
+☸️ [**gcp-gke-gitops**](https://github.com/WBHankins93/gcp-gke-gitops) – GitOps-driven GKE deployment framework using ArgoCD and Terraform
+
+🤖 [**mlops-sre-mini**](https://github.com/WBHankins93/mlops-sre-mini) – End-to-end MLOps + SRE demo: model training, FastAPI serving, containerization, Helm deployment, and monitoring
 
 ---
 
