@@ -67,13 +67,16 @@ Technical demonstrations and customer solutions from my Solutions Engineering wo
 Building custom web solutions for small businesses using modern TypeScript stack. This work keeps me sharp on customer discovery, project scoping, and delivering production applications—all directly applicable to Solutions Engineering.
 
 ### [sproutflow-flagship](https://github.com/WBHankins93/sproutflow-flagship) 🌱
-**Agency Website** - Next.js/TypeScript site for Sproutflow showcasing services, case studies, and client testimonials. Demonstrates modern web architecture and design principles.
+**Agency Website** - Next.js/TypeScript site for Sproutflow showcasing services, case studies, and client testimonials. Demonstrates modern web architecture and design principles.  
+🔗 **Live Site**: [sproutflow.vercel.app](https://sproutflow.vercel.app/)
 
 ### [personal-website](https://github.com/WBHankins93/personal-website) 💼
-**Career Portfolio** - TypeScript-based portfolio showcasing my Solutions Engineering work and projects. Built by Sproutflow as a use case for the business.
+**Career Portfolio** - TypeScript-based portfolio showcasing my Solutions Engineering work and projects. Built by Sproutflow as a use case for the business.  
+🔗 **Live Site**: [benhankins.vercel.app](https://benhankins.vercel.app/)
 
 ### [nealy-event-decor](https://github.com/WBHankins93/nealy-event-decor) 🎨
-**Client Project** - Custom website for event decoration business. End-to-end project from discovery and requirements gathering through design, development, and launch.
+**First Client Project** - Custom website for event decoration business. End-to-end project from discovery and requirements gathering through design, development, and launch. Complex e-commerce integration and booking system.  
+🔗 **Live Site**: [nealy-event-decor.vercel.app](https://nealy-event-decor.vercel.app/)
 
 **Why This Matters for SE Work:**
 - 🤝 **Full customer lifecycle experience**: Discovery, scoping, proposals, delivery, support
