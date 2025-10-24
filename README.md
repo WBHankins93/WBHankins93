@@ -109,7 +109,7 @@ Building custom web solutions for small businesses using modern TypeScript stack
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn**: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ben-hankins/)
+- 💼 **LinkedIn**: [https://linkedin.com/in/ben-hankins/](https://www.linkedin.com/in/ben-hankins/)
 - 🌐 **Portfolio**: [benhankins.vercel.app](https://benhankins.vercel.app)
 - 🌱 **Sproutflow**: [sproutflow.com](https://sproutflow.com) (Side business)
 - 📧 **Email**: benhankins.work@gmail.com
