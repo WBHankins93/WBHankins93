@@ -13,9 +13,9 @@ Solutions Engineer with 5+ years driving technical sales and customer success fo
 
 **Recent Experience:**
 - **Currently**: Returning to customer-facing Solutions Engineering roles after strategically deepening production operations expertise
+- **2025**: Contract DevOps Engineer role to gain hands-on production experience with SOC 2 compliance, observability, and enterprise security
 - **2022-2024**: Technical advisor for 12 enterprise clients at IBM, managing full customer lifecycle from discovery through deployment
 - **2021-2022**: Senior Solutions Engineer at IBM (promoted after 14 months), leading pre-sales for container platforms
-- **2025**: Contract DevOps Engineer role to gain hands-on production experience with SOC 2 compliance, observability, and enterprise security
 
 ## 🛠️ Technical Expertise (Customer-Facing Context)
 
