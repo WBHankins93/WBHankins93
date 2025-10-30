@@ -78,8 +78,9 @@ Building custom web solutions for small businesses using modern TypeScript stack
 **Events Client Project** - Custom website for event decoration business. End-to-end project from discovery and requirements gathering through design, development, and launch. Complex e-commerce integration and booking system.  
 🔗 **Live Site**: [nealy-event-decor.vercel.app](https://nealy-event-decor.vercel.app/)
 
-### [secondline-psychiatry](https://github.com/WBHankins93/second-line-psych)) 🏥
+### [secondline-psychiatry](https://github.com/WBHankins93/second-line-psych) 🏥
 **Healthcare Client Project** - Professional website for psychiatry practice. Demonstrates experience working with healthcare clients and understanding of patient-facing digital experiences.
+
 🔗 **Live Site**: [secondlinepsychiatry.com](https://www.secondlinepsychiatry.com/)
 
 **Why This Matters for SE Work:**
