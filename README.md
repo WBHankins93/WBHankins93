@@ -80,8 +80,9 @@ Building custom web solutions for small businesses using modern TypeScript stack
 
 ### [secondline-psychiatry](https://github.com/WBHankins93/second-line-psych) 🏥
 **Healthcare Client Project** - Professional website for psychiatry practice. Demonstrates experience working with healthcare clients and understanding of patient-facing digital experiences.
-
 🔗 **Live Site**: [secondlinepsychiatry.com](https://www.secondlinepsychiatry.com/)
+
+----------------------------------------------------------------------------
 
 **Why This Matters for SE Work:**
 - 🤝 **Full customer lifecycle experience**: Discovery, scoping, proposals, delivery, support
