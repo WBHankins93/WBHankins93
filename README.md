@@ -13,8 +13,8 @@ Former IBM Senior SE who led technical engagements for enterprise Kubernetes dep
 - [deployment-patterns](https://github.com/WBHankins93/deployment-patterns) - Blue/green, canary, and progressive delivery patterns for zero-downtime deployments
 
 **Full-Stack Development & Client Solutions**
-- [nealy-event-decor](https://github.com/WBHankins93/nealy-event-decor) - E-commerce + booking system for event business. Next.js/TypeScript. → [Live](https://https://nealyevents.com/)
-- [secondline-psychiatry](https://github.com/WBHankins93/second-line-psych) - Healthcare practice website with patient portal → [Live](www.secondlinepsychiatry.com)
+- [nealy-event-decor](https://github.com/WBHankins93/nealy-event-decor) - E-commerce + booking system for event business. Next.js/TypeScript. → [Live](https://nealyevents.com)
+- [secondline-psychiatry](https://github.com/WBHankins93/second-line-psych) - Healthcare practice website with patient portal → [Live](https://www.secondlinepsychiatry.com)
 - [sproutflow-flagship](https://github.com/WBHankins93/sproutflow-flagship) - Agency site showcasing services and case studies → [Live](https://sproutflow-studio.com)
 - [personal-website](https://github.com/WBHankins93/personal-website) - SE portfolio built with modern web stack → [Live](https://benhankins.vercel.app)
 
