@@ -7,16 +7,16 @@ Former IBM Senior SE who led technical engagements for enterprise Kubernetes dep
 ## 🚀 Featured Projects
 
 **Infrastructure & Platform Engineering**
-- [terraform-infra-platform](link) - Modular Terraform reducing enterprise POC build times by 40%. Used across 20+ customer engagements.
-- [DevOps-Studio](link) - Open-source platform for onboarding teams to cloud-native operations
-- [gcp-gke-gitops](link) - Production GitOps reference architecture. Used in customer workshops and demos.
-- [deployment-patterns](link) - Blue/green, canary, and progressive delivery patterns for zero-downtime deployments
+- [terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform) - Modular Terraform reducing enterprise POC build times by 40%. Used across 20+ customer engagements.
+- [DevOps-Studio](https://github.com/WBHankins93/DevOps-Studio) - Open-source platform for onboarding teams to cloud-native operations
+- [gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops) - Production GitOps reference architecture. Used in customer workshops and demos.
+- [deployment-patterns](https://github.com/WBHankins93/deployment-patterns) - Blue/green, canary, and progressive delivery patterns for zero-downtime deployments
 
 **Full-Stack Development & Client Solutions**
-- [nealy-event-decor](link) - E-commerce + booking system for event business. Next.js/TypeScript. → [Live](link)
-- [secondline-psychiatry](link) - Healthcare practice website with patient portal → [Live](link)
-- [sproutflow-flagship](link) - Agency site showcasing services and case studies → [Live](link)
-- [personal-website](link) - SE portfolio built with modern web stack → [Live](link)
+- [nealy-event-decor](https://github.com/WBHankins93/nealy-event-decor) - E-commerce + booking system for event business. Next.js/TypeScript. → [Live](https://https://nealyevents.com/)
+- [secondline-psychiatry](https://github.com/WBHankins93/second-line-psych) - Healthcare practice website with patient portal → [Live](https://www.secondlinepsychiatry.com)
+- [sproutflow-flagship](https://github.com/WBHankins93/sproutflow-flagship) - Agency site showcasing services and case studies → [Live](https://sproutflow-studio.com)
+- [personal-website](https://github.com/WBHankins93/personal-website) - SE portfolio built with modern web stack → [Live](https://benhankins.vercel.app)
 
 ## 🛠 Technical Range
 
@@ -30,9 +30,9 @@ Web design studio serving small business clients. Every project involves discove
 
 ## 🔗 Connect
 
-- 🌐 **Portfolio:** [benhankins.vercel.app](link)
-- 💼 **LinkedIn:** [linkedin.com/in/ben-hankins](link)  
-- 🌱 **Sproutflow:** [sproutflow.vercel.app](link)
+- 🌐 **Portfolio:** [benhankins.vercel.app](https://benhankins.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/ben-hankins](https://www.linkedin.com/in/ben-hankins/)  
+- 🌱 **Sproutflow:** [sproutflow-studio.com](https://sproutflow-studio.com)
 - 📧 **Email:** benhankins.work@gmail.com
 
 📍 New Orleans, LA | Open to Remote SE Roles
