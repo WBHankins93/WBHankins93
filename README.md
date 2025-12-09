@@ -1,8 +1,8 @@
 # Hey, I'm Ben 👋
 
-Solutions Engineer with deep technical background across infrastructure, platform engineering, DevOps, and full-stack development. Currently building in public while exploring Solutions Engineering opportunities.
+Solutions Engineer with deep technical background across infrastructure, platform engineering, DevOps, and full-stack development. Actively seeking Cloud Solutions Engineer roles while running Sproutflow Studio (technical consultancy) and maintaining open-source DevOps projects.
 
-Former IBM Senior SE who led technical engagements for enterprise Kubernetes deployments. Now running Sproutflow, a web design studio - keeping sharp on customer discovery, technical consulting, and production delivery.
+Former IBM Senior SE who led technical engagements for enterprise Kubernetes deployments. 
 
 ## 🚀 Featured Projects
 
