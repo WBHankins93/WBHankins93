@@ -6,7 +6,7 @@ Former IBM Senior SE who led technical engagements for enterprise Kubernetes dep
 
 ## 🚀 Featured Projects
 
-**Educational Platforms for SE & Platform Engineering**
+**SE & Platform Engineering Education**
 
 - [implementation-studio](https://github.com/WBHankins93/implementation-studio) - Complete technical deployment patterns platform with 9 hands-on labs covering constrained environment deployments, air-gapped networks, and private cluster configurations. Production-grade Terraform modules for GCP/AWS with comprehensive documentation.
 - [solutions-playbook](https://github.com/WBHankins93/solutions-playbook) - Operational framework for Solutions Engineers covering the full customer engagement lifecycle. 41 complete resources structured around "moments of need" for practical SE workflows.
