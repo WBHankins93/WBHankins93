@@ -10,12 +10,12 @@ Former IBM Senior SE who led technical engagements for enterprise Kubernetes dep
 
 - [implementation-studio](https://github.com/WBHankins93/implementation-studio) - Complete technical deployment patterns platform with 9 hands-on labs covering constrained environment deployments, air-gapped networks, and private cluster configurations. Production-grade Terraform modules for GCP/AWS with comprehensive documentation.
 - [solutions-playbook](https://github.com/WBHankins93/solutions-playbook) - Operational framework for Solutions Engineers covering the full customer engagement lifecycle. 41 complete resources structured around "moments of need" for practical SE workflows.
+- [devops-studio](https://github.com/WBHankins93/devops-studio) - Production-grade DevOps and platform engineering learning platform focused on real-world enterprise workflows. Covers AWS, Terraform, Kubernetes, CI/CD, observability, and platform engineering through hands-on, enterprise-style labs designed to mirror on-the-job Solutions Engineer and Platform Engineer responsibilities.
 
 **Infrastructure & Platform Engineering**
 
 - [terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform) - Modular Terraform reducing enterprise POC build times by 40%. Used across 20+ customer engagements.
 - [gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops) - Production GitOps reference architecture. Used in customer workshops and demos.
-- [deployment-patterns](https://github.com/WBHankins93/deployment-patterns) - Blue/green, canary, and progressive delivery patterns for zero-downtime deployments
 
 **Full-Stack Development & Client Solutions**
 
@@ -29,7 +29,7 @@ Former IBM Senior SE who led technical engagements for enterprise Kubernetes dep
 
 **Infrastructure & Platform:** Kubernetes • OpenShift • Terraform • Ansible • AWS • GCP • Docker • Helm • GitOps  
 **Development:** TypeScript • Next.js • React • Python • Go • Node.js • SQL  
-**Operations:** CI/CD • Prometheus • Grafana • OpenSearch • SRE Practices • SOC 2 Compliance
+**Operations & Enablement:** CI/CD • Prometheus • Grafana • OpenSearch • SRE Practices • SOC 2 Compliance • Developer Enablement
 
 ## 🌱 About Sproutflow
 
