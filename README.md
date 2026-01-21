@@ -90,4 +90,4 @@ Each engagement includes discovery, technical scoping, architecture decisions, a
 - 🌱 **Sproutflow:** [sproutflow-studio.com](https://www.sproutflow-studio.com)
 - 📧 **Email:** benhankins.work@gmail.com
 
-📍 New Orleans, LA | Open to Remote SE Roles
+📍 New Orleans, LA | Open to Remote Senior Cloud / Solutions Engineering Roles
