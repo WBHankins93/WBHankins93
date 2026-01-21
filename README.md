@@ -9,36 +9,79 @@ Currently building educational and reference platforms for Cloud, Platform, and 
 
 I specialize in systems that need to be **understood, operated, and trusted**.
 
-## 🚀 Featured Projects
+---
 
-**SE & Platform Engineering Education**
+## 🧠 What I Focus On
 
-- [implementation-studio](https://github.com/WBHankins93/implementation-studio) - Complete technical deployment patterns platform with 9 hands-on labs covering constrained environment deployments, air-gapped networks, and private cluster configurations. Production-grade Terraform modules for GCP/AWS with comprehensive documentation.
-- [solutions-playbook](https://github.com/WBHankins93/solutions-playbook) - Operational framework for Solutions Engineers covering the full customer engagement lifecycle. 41 complete resources structured around "moments of need" for practical SE workflows.
-- [devops-studio](https://github.com/WBHankins93/devops-studio) - Production-grade DevOps and platform engineering learning platform focused on real-world enterprise workflows. Covers AWS, Terraform, Kubernetes, CI/CD, observability, and platform engineering through hands-on, enterprise-style labs designed to mirror on-the-job Solutions Engineer and Platform Engineer responsibilities.
+- Designing Kubernetes and cloud platforms that hold up in constrained or regulated environments  
+- Infrastructure-as-Code and GitOps patterns that scale beyond demos  
+- Enabling engineers through clear architecture, documentation, and decision-making frameworks  
+- Bridging product, engineering, and customers without sacrificing technical rigor  
 
-**Infrastructure & Platform Engineering**
+---
 
-- [terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform) - Modular Terraform reducing enterprise POC build times by 40%. Used across 20+ customer engagements.
-- [gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops) - Production GitOps reference architecture. Used in customer workshops and demos.
+## 🚀 Flagship Work
 
-**Full-Stack Development & Client Solutions**
+### Platform & Infrastructure Engineering
 
-- [nealy-event-decor](https://github.com/WBHankins93/nealy-event-decor) - E-commerce + booking system for event business. Next.js/TypeScript. → [Live](https://www.nealyevents.com)
-- [big-butt-association](https://github.com/WBHankins93/big-butt-association) - E-commerce store for EDM fashion with integrated membership features. Built on Shopify/Liquid. → [Live](https://www.bigbuttassociation.com)
-- [secondline-psychiatry](https://github.com/WBHankins93/second-line-psych) - Healthcare practice website with patient portal → [Live](https://www.secondlinepsychiatry.com)
-- [sproutflow-flagship](https://github.com/WBHankins93/sproutflow-flagship) - Agency site showcasing services and case studies → [Live](https://www.sproutflow-studio.com)
-- [personal-website](https://github.com/WBHankins93/personal-website) - SE portfolio built with modern web stack → [Live](https://benhankins.vercel.app)
+- **[implementation-studio](https://github.com/WBHankins93/implementation-studio)**  
+  A production-oriented deployment patterns platform based on real enterprise constraints: air-gapped networks, private clusters, restricted egress, and security controls.  
+  Includes hands-on labs and Terraform modules for AWS and GCP, designed to mirror environments where failure is not theoretical.
 
-## 🛠 Technical Range
+- **[devops-studio](https://github.com/WBHankins93/devops-studio)**  
+  A reference architecture library covering Kubernetes, Terraform, GitOps, CI/CD, and observability.  
+  Built to reflect how platform teams actually work, not idealized tutorials.
 
-**Infrastructure & Platform:** Kubernetes • OpenShift • Terraform • Ansible • AWS • GCP • Docker • Helm • GitOps  
-**Development:** TypeScript • Next.js • React • Python • Go • Node.js • SQL  
-**Operations & Enablement:** CI/CD • Prometheus • Grafana • OpenSearch • SRE Practices • SOC 2 Compliance • Developer Enablement
+### Solutions Engineering & Enablement
 
-## 🌱 About Sproutflow
+- **[solutions-playbook](https://github.com/WBHankins93/solutions-playbook)**  
+  An operational framework for Solutions Engineers covering the full customer lifecycle.  
+  Structured around “moments of need” to support real pre-sales, delivery, and post-sales workflows.
 
-Web design studio serving small business clients. Every project involves discovery calls, technical scoping, architecture decisions, and production delivery - the same customer engagement cycle as enterprise SE work, just different scale. Built and deployed 5 production sites in 2025.
+---
+
+## 🏗 Selected Production Systems
+
+- **[terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform)**  
+  Modular Terraform platform that reduced enterprise POC build times by ~40%.  
+  Used across 20+ customer engagements.
+
+- **[gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops)**  
+  Production GitOps reference architecture used in customer workshops and technical demos.
+
+---
+
+## 🌐 Client & Full-Stack Work
+
+While infrastructure is my core focus, I also build and ship end-to-end systems when needed:
+
+- **[Nealy Event Decor](https://www.nealyevents.com)** – E-commerce + booking platform (Next.js / TypeScript)  
+- **[Big Butt Association](https://www.bigbuttassociation.com)** – Shopify-based e-commerce with membership features  
+- **[Second Line Psychiatry](https://www.secondlinepsychiatry.com)** – Healthcare site with patient portal  
+- **[Sproutflow Studio](https://www.sproutflow-studio.com)** – Technical consultancy and case studies  
+- **[Personal Portfolio](https://benhankins.vercel.app)** – Engineering-focused portfolio
+
+---
+
+## 🛠 Technical Stack
+
+**Infrastructure & Platform**  
+Kubernetes • OpenShift • Terraform • AWS • GCP • Docker • Helm • GitOps  
+
+**Development**  
+TypeScript • Next.js • React • Python • Go • Node.js • SQL  
+
+**Operations**  
+CI/CD • Observability (Prometheus, Grafana, OpenSearch) • SRE Practices • SOC 2 Readiness • Developer Enablement
+
+---
+
+## 🌱 About Sproutflow Studio
+
+Sproutflow Studio is my hands-on consulting practice.  
+Each engagement includes discovery, technical scoping, architecture decisions, and production delivery, mirroring enterprise Solutions Engineering workflows at a smaller scale.
+
+---
 
 ## 🔗 Connect
 
