@@ -41,13 +41,13 @@ I specialize in environments where breadth matters as much as depth.
 
 ## 🛠 Technical Stack
 
-**Development**
+**Development**:
 TypeScript • React • Next.js • Node.js • Python • SQL • REST APIs • Auth (JWT/RBAC)
 
-**Infrastructure & Platforms**
+**Infrastructure & Platforms**:
 Kubernetes • OpenShift • Terraform • AWS • GCP • IBM Cloud • Docker • Helm • GitOps
 
-**Operations**
+**Operations**:
 CI/CD • Prometheus • Grafana • OpenSearch • SRE Practices • SOC 2 Readiness
 
 ---
