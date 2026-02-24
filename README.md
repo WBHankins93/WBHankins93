@@ -1,93 +1,68 @@
 # Hey, I'm Ben 👋
 
-Senior Cloud Engineer with experience operating and scaling Kubernetes-based infrastructure across enterprise and startup environments.
+Full-stack engineer with production infrastructure depth and a track record of owning the complete product lifecycle. I build the product, deploy it, keep it running, and talk to customers about it. That combination is uncommon and intentional.
 
-I design, build, and run production cloud systems under real-world constraints, including regulated environments, enterprise security requirements, and high availability expectations.
+Background spans early web development at a SaaS startup, enterprise cloud architecture at IBM, production SRE at Prove AI, and end-to-end client delivery through Sproutflow Studio.
 
-Former IBM Senior Cloud Engineer, where I led customer-facing Kubernetes and cloud platform engagements across AWS, GCP, and IBM Cloud.  
-Currently building educational and reference platforms for Cloud, Platform, and Solutions Engineers, while running Sproutflow Studio, a hands-on technical consultancy.
-
-I specialize in systems that need to be **understood, operated, and trusted**.
+I specialize in environments where breadth matters as much as depth.
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 What I Do
 
-- Designing Kubernetes and cloud platforms that hold up in constrained or regulated environments  
-- Infrastructure-as-Code and GitOps patterns that scale beyond demos  
-- Enabling engineers through clear architecture, documentation, and decision-making frameworks  
-- Bridging product, engineering, and customers without sacrificing technical rigor  
+- Build and ship production web applications using TypeScript, Next.js, and React
+- Design and operate Kubernetes-based cloud infrastructure across AWS, GCP, and IBM Cloud
+- Run the full customer engagement cycle: discovery, scoping, architecture, delivery, and handoff
+- Bridge product, engineering, and customers without sacrificing technical rigor
 
 ---
 
 ## 🚀 Flagship Work
 
-### Platform & Infrastructure Engineering
+### Full-Stack & Client Delivery
 
-- **[implementation-studio](https://github.com/WBHankins93/implementation-studio)**  
-  A production-oriented deployment patterns platform based on real enterprise constraints: air-gapped networks, private clusters, restricted egress, and security controls.  
-  Includes hands-on labs and Terraform modules for AWS and GCP, designed to mirror environments where failure is not theoretical.
+- **[Nealy Event Decor](https://www.nealyevents.com)** - E-commerce and booking platform built with Next.js and TypeScript
+- **[NOLA Pool Solutions](https://nolapoolsolutions.com)** - Pool services business site with quote generation and customer portal integration
+- **[Second Line Psychiatry](https://www.secondlinepsychiatry.com)** - Healthcare practice site with patient portal
+- **[Sproutflow Studio](https://www.sproutflow-studio.com)** - Technical consultancy portfolio and case studies
+- **[Personal Portfolio](https://benhankins.vercel.app)** - Engineering focused portfolio
 
-- **[devops-studio](https://github.com/WBHankins93/devops-studio)**  
-  A reference architecture library covering Kubernetes, Terraform, GitOps, CI/CD, and observability.  
-  Built to reflect how platform teams actually work, not idealized tutorials.
+### Infrastructure & Platform Engineering
 
-### Solutions Engineering & Enablement
+- **[implementation-studio](https://github.com/WBHankins93/implementation-studio)** - Production deployment patterns for constrained environments: air-gapped networks, private clusters, restricted egress. Includes Terraform modules and hands-on labs for AWS and GCP.
+- **[devops-studio](https://github.com/WBHankins93/devops-studio)** - Reference architecture library covering Kubernetes, Terraform, GitOps, CI/CD, and observability. Built to reflect how platform teams actually work.
+- **[terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform)** - Modular Terraform platform used across 20+ customer engagements. Reduced enterprise POC build times by 40%.
 
-- **[solutions-playbook](https://github.com/WBHankins93/solutions-playbook)**  
-  An operational framework for Solutions Engineers covering the full customer lifecycle.  
-  Structured around “moments of need” to support real pre-sales, delivery, and post-sales workflows.
+### Solutions Engineering
 
----
-
-## 🏗 Selected Production Systems
-
-- **[terraform-infra-platform](https://github.com/WBHankins93/terraform-infra-platform)**  
-  Modular Terraform platform that reduced enterprise POC build times by ~40%.  
-  Used across 20+ customer engagements.
-
-- **[gcp-gke-gitops](https://github.com/WBHankins93/gcp-gke-gitops)**  
-  Production GitOps reference architecture used in customer workshops and technical demos.
-
----
-
-## 🌐 Client & Full-Stack Work
-
-While infrastructure is my core focus, I also build and ship end-to-end systems when needed:
-
-- **[Nealy Event Decor](https://www.nealyevents.com)** – E-commerce + booking platform (Next.js / TypeScript)  
-- **[Big Butt Association](https://www.bigbuttassociation.com)** – Shopify-based e-commerce with membership features  
-- **[Second Line Psychiatry](https://www.secondlinepsychiatry.com)** – Healthcare site with patient portal  
-- **[Sproutflow Studio](https://www.sproutflow-studio.com)** – Technical consultancy and case studies  
-- **[Personal Portfolio](https://benhankins.vercel.app)** – Engineering-focused portfolio
+- **[solutions-playbook](https://github.com/WBHankins93/solutions-playbook)** - Operational framework for Solutions Engineers covering the full customer lifecycle from pre-sales through handoff.
 
 ---
 
 ## 🛠 Technical Stack
 
-**Infrastructure & Platform**  
-Kubernetes • OpenShift • Terraform • AWS • GCP • Docker • Helm • GitOps  
+**Development**
+TypeScript • React • Next.js • Node.js • Python • SQL • REST APIs • Auth (JWT/RBAC)
 
-**Development**  
-TypeScript • Next.js • React • Python • Go • Node.js • SQL  
+**Infrastructure & Platforms**
+Kubernetes • OpenShift • Terraform • AWS • GCP • IBM Cloud • Docker • Helm • GitOps
 
-**Operations**  
-CI/CD • Observability (Prometheus, Grafana, OpenSearch) • SRE Practices • SOC 2 Readiness • Developer Enablement
+**Operations**
+CI/CD • Prometheus • Grafana • OpenSearch • SRE Practices • SOC 2 Readiness
 
 ---
 
 ## 🌱 About Sproutflow Studio
 
-Sproutflow Studio is my hands-on consulting practice.  
-Each engagement includes discovery, technical scoping, architecture decisions, and production delivery, mirroring enterprise Solutions Engineering workflows at a smaller scale.
+Sproutflow Studio is my hands-on web consultancy serving small businesses. Every engagement runs the same cycle as enterprise SE work: discovery, technical scoping, architecture decisions, build, deployment, and client handoff. Just a different scale.
 
 ---
 
 ## 🔗 Connect
 
 - 🌐 **Portfolio:** [benhankins.vercel.app](https://benhankins.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/ben-hankins](https://www.linkedin.com/in/ben-hankins/)  
+- 💼 **LinkedIn:** [linkedin.com/in/ben-hankins](https://www.linkedin.com/in/ben-hankins/)
 - 🌱 **Sproutflow:** [sproutflow-studio.com](https://www.sproutflow-studio.com)
 - 📧 **Email:** benhankins.work@gmail.com
 
-📍 New Orleans, LA | Open to Remote Senior Cloud / Solutions Engineering Roles
+📍 New Orleans, LA | Open to Remote Full-Stack and Solutions Engineering Roles
