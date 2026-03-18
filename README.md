@@ -34,8 +34,7 @@ Most of my work lives at the intersection of building things and explaining them
 - **[Personal Portfolio](https://benhankins.vercel.app)** - Engineering focused portfolio
 
 ### AI Development
-- **[greenlit](https://github.com/WBHankins93/greenlit)** - AI resume coaching platform with industry-specific feedback, ATS scoring, and bullet rewrites. Built with Next.js, Supabase, Google Gemini, and Anthropic.
-- **[business-plan-writer](https://github.com/WBHankins93/business-plan-writer)** - 5-agent AI pipeline for business plan generation. Provider-agnostic architecture using Groq, Anthropic, and OpenAI.
+- **[business-plan-writer](https://github.com/WBHankins93/business-plan-writer)** - 5-agent AI pipeline for business plan generation. Provider-agnostic architecture using Groq, Anthropic, and OpenAI. Open Source, road map included.
 
 ---
 
