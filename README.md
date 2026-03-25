@@ -36,7 +36,7 @@ Most of my work lives at the intersection of building things and explaining them
 ### AI Development
 - AI Development Projects
 
-- **[greenlit.cv](https://greenlit-cv.vercel.app) – AI Resume Insights - Built an AI-powered tool that analyzes resumes from a recruiter’s perspective and provides actionable feedback to improve interview rates. Focused on product design, AI workflow integration, and UX for maximum clarity and user trust. (Private repository — live site linked)
+- [greenlit.cv](https://greenlit-cv.vercel.app) – AI Resume Insights - Built an AI-powered tool that analyzes resumes from a recruiter’s perspective and provides actionable feedback to improve interview rates. Focused on product design, AI workflow integration, and UX for maximum clarity and user trust. (Private repository — live site linked)
 - **[business-plan-writer](https://github.com/WBHankins93/business-plan-writer)** - 5-agent AI pipeline for business plan generation. Provider-agnostic architecture using Groq, Anthropic, and OpenAI. Open Source, road map included.
 
 ---
