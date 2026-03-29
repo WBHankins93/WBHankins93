@@ -34,9 +34,8 @@ Most of my work lives at the intersection of building things and explaining them
 - **[Personal Portfolio](https://benhankins.vercel.app)** - Engineering focused portfolio
 
 ### AI Development
-- AI Development Projects
-
 - **[greenlit.cv](https://greenlit-cv.vercel.app)** – AI Resume Insights - Built an AI-powered tool that analyzes resumes from a recruiter’s perspective and provides actionable feedback to improve interview rates. Focused on product design, AI workflow integration, and UX for maximum clarity and user trust. (Private repository — live site linked)
+- **[prompt-library](https://github.com/WBHankins93/prompt-library)** - Layered reasoning and judgment architecture for AI systems. Modular personas, response standards, and reasoning playbooks.
 - **[business-plan-writer](https://github.com/WBHankins93/business-plan-writer)** - 5-agent AI pipeline for business plan generation. Provider-agnostic architecture using Groq, Anthropic, and OpenAI. Open Source, road map included.
 
 ---
@@ -73,4 +72,4 @@ Sproutflow Studio is my hands-on web consultancy serving small businesses. Every
 - 🌱 **Sproutflow:** [sproutflow-studio.com](https://www.sproutflow-studio.com)
 - 📧 **Email:** benhankins.work@gmail.com
 
-📍 New Orleans, LA | Open to Remote Solutions Engineering and Full-Stack Roles
+📍 New Orleans, LA | Open to Solutions Engineering, Full-Stack Engineering, and Founding Engineer roles (Remote)
