@@ -29,6 +29,7 @@ Previously worked on enterprise infrastructure and solutions at IBM, owned produ
 - [greenlit](https://greenlit-cv.vercel.app/)
 - [business-plan-writer](https://github.com/WBHankins93/business-plan-writer)
 - [sproutflow-flagship](https://sproutflow-studio.com)
+- [prompt-library](https:/github.com/WBHankins93/prompt-library)
 
 ---
 
