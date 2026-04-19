@@ -19,6 +19,7 @@ Previously worked on enterprise infrastructure and solutions at IBM, owned produ
 
 **Frontend:** TypeScript, React, Next.js  
 **Backend:** Node.js, Python, REST APIs, Go 
+
 **Infra:** AWS, GCP, Kubernetes, Terraform  
 **AI:** OpenAI, Anthropic, Gemini, Groq  
 
