@@ -45,8 +45,9 @@ a full-stack web consultancy building production apps for clients.
 ---
 
 ## 🌐 Find Me Elsewhere
-- Portfolio: https://benhankins.vercel.app/
+- Portfolio: https://benhankins.dev/
 - LinkedIn: https://www.linkedin.com/in/ben-hankins/
+- Instagram: https://www.instagram.com/all_about_the_benjamins93/
 
 ---
 
