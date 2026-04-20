@@ -10,6 +10,9 @@ a full-stack web consultancy building production apps for clients.
 ---
 
 ## 🚀 What I'm Building
+- **[Sproutflow Studio](https://sproutflow-studio.com)** — full-stack web consultancy serving
+  clients across industries. Internal project tracking dashboard built in house. Custom CMS
+  platform and CRM currently in build.
 - **[greenlit](https://greenlit.cv)** — AI resume coaching platform with ATS scoring,
   keyword analysis, and full bullet rewrites. Industry-aware feedback across 5 verticals.
   Built on Next.js, Supabase, and multi-provider AI (Anthropic + Gemini). Invite-only beta, live.
@@ -17,9 +20,6 @@ a full-stack web consultancy building production apps for clients.
   pipeline that turns a client intake into an investor-ready business plan. Validator, market
   analyst, financial checker, writer, and critic run in sequence. Provider-agnostic across Groq,
   Anthropic, and OpenAI. Outputs .docx and .pdf. End-to-end functional.
-- **[Sproutflow Studio](https://sproutflow-studio.com)** — full-stack web consultancy serving
-  clients across industries. Internal project tracking dashboard built in house. Custom CMS
-  platform and CRM currently in build.
 - **[prompt-library](https://github.com/WBHankins93/prompt-library)** — layered reasoning
   and judgment architecture for AI. Expert personas, task prompts, and multi-stage workflows.
   Model-agnostic. Actively growing.
