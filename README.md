@@ -2,7 +2,7 @@
 
 I build and ship products.
 
-Full-stack engineer working across product development, systems, and real-world delivery.
+Solutions Engineer and full-stack builder working across product development, systems, and real-world delivery.
 Previously worked on enterprise infrastructure and solutions at IBM, owned production
 reliability at Prove AI, and now running **[Sproutflow Studio](https://sproutflow-studio.com)**,
 a full-stack web consultancy building production apps for clients.
