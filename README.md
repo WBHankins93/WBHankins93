@@ -1,11 +1,6 @@
 # Hey, I'm Ben 👋
 
-I build and ship products.
-
-Solutions Engineer and full-stack builder working across product development, systems, and real-world delivery.
-Previously worked on enterprise infrastructure and solutions at IBM, owned production
-reliability at Prove AI, and now running **[Sproutflow Studio](https://sproutflow-studio.com)**,
-a full-stack web consultancy building production apps for clients.
+Software engineer focused on cloud infrastructure, reliability, and AI-enabled product tooling. I like building systems end to end: architecture, automation, deployment, and the messy production details that make software real.
 
 ---
 
