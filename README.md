@@ -47,4 +47,8 @@ Software engineer focused on cloud infrastructure, reliability, and AI-enabled p
 ---
 
 ## ⚡ Right Now
-Building full-stack products and exploring roles where I can ship, move fast, and own what I build.
+
+- Building AI-enabled tools, technical demos, and cloud infrastructure projects
+- Sharpening my work around solutions architecture, automation, and practical LLM systems
+- Open to Solutions Architect, Solutions Engineer, GTM Engineer, and AI-focused roles
+- Based in New Orleans, available remote
