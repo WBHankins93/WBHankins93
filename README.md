@@ -1,54 +1,111 @@
 # Hey, I'm Ben 👋
 
-Software engineer focused on cloud infrastructure, reliability, and AI-enabled product tooling. I like building systems end to end: architecture, automation, deployment, and the messy production details that make software real.
+Solutions Architect, Solutions Engineer, and product builder focused on AI, cloud infrastructure, and modern software.
+
+I enjoy identifying real-world problems and building products, tools, and automations that solve them. My work spans solution architecture, AI systems, cloud platforms, and full-stack application development.
 
 ---
 
 ## 🚀 What I'm Building
-- **[Sproutflow Studio](https://sproutflow-studio.com)** — full-stack web consultancy serving
-  clients across industries. Internal project tracking dashboard built in house. Custom CMS
-  platform and CRM currently in build.
-- **[greenlit](https://greenlit.cv)** — AI resume coaching platform with ATS scoring,
-  keyword analysis, and full bullet rewrites. Industry-aware feedback across 5 verticals.
-  Built on Next.js, Supabase, and multi-provider AI (Anthropic + Gemini). Invite-only beta, live.
-- **[business-plan-writer](https://github.com/WBHankins93/business-plan-writer)** — 5-agent
-  pipeline that turns a client intake into an investor-ready business plan. Validator, market
-  analyst, financial checker, writer, and critic run in sequence. Provider-agnostic across Groq,
-  Anthropic, and OpenAI. Outputs .docx and .pdf. End-to-end functional.
-- **[prompt-library](https://github.com/WBHankins93/prompt-library)** — layered reasoning
-  and judgment architecture for AI. Expert personas, task prompts, and multi-stage workflows.
-  Model-agnostic. Actively growing.
+
+### Sproutflow Studio
+
+Custom software, AI solutions, and modern web applications for growing businesses.
+
+### Greenlit
+
+AI-powered resume coaching platform with ATS scoring, keyword analysis, and industry-aware feedback.
+
+### Treehouse
+
+Private iOS app helping close friend groups preserve important moments, events, plans, and shared memories without the noise of traditional social platforms.
+
+### Business Plan Writer
+
+Multi-agent AI workflow that transforms client intake data into investor-ready business plans.
+
+### Clipboard
+
+Point-of-sale platform for service businesses. Production implementation remains private under NDA; demo available.
 
 ---
 
-## 🧠 What I Work With
+## ⚙️ Internal Products & Platforms
 
-**Frontend:** TypeScript, React, Next.js
+### Sproutflow Admin
 
-**Backend:** Node.js, Python, REST APIs, Go
+Internal operating system for managing projects, outreach workflows, business operations, and day-to-day execution across Sproutflow Studio.
 
-**Infra:** AWS, GCP, Kubernetes, Terraform
+### EmberOS
 
-**AI:** OpenAI, Anthropic, Gemini, Groq
+Database activation platform designed to identify sales opportunities hidden within existing customer data.
 
-**Databases:** PostgreSQL (Supabase · Neon)
+### CRM & CRM Lite
 
-**Storage:** AWS S3, Cloudflare R2, Vercel Blob
+Customer relationship management platforms designed for organizations that need flexible lead, contact, and opportunity management.
 
-**Auth:** JWT, RBAC
+### Prompt Library
+
+Collection of AI workflows, expert systems, and reusable reasoning frameworks for real-world business and technical use cases.
 
 ---
 
-## 🌐 Find Me Elsewhere
-- Portfolio: https://benhankins.dev/
-- LinkedIn: https://www.linkedin.com/in/ben-hankins/
-- Instagram: https://www.instagram.com/all_about_the_benjamins93/
+## 🧠 What I Do
+
+* Solution Architecture
+* Technical Discovery
+* AI Workflows & Automation
+* System Design
+* Cloud Infrastructure
+* Full-Stack Development
+* Customer-Facing Engineering
+
+---
+
+## ⚡ Technologies
+
+**Cloud:** AWS • GCP • Kubernetes • Terraform • Docker
+
+**Development:** TypeScript • React • Next.js • Node.js • Python
+
+**AI:** OpenAI • Anthropic • Gemini • Groq • RAG
+
+**Data:** PostgreSQL • Supabase • Neon
+
+**Storage:** AWS S3 • Cloudflare R2 • Vercel Blob
+
+**Security:** JWT • OAuth • RBAC
+
+---
+
+## 📚 Open Work
+
+* Solutions Playbook
+* Infrastructure Labs
+* Deployment Patterns
+* AI Architecture Experiments
+* Open Source Utilities & Automation
 
 ---
 
 ## ⚡ Right Now
 
-- Building AI-enabled tools, technical demos, and cloud infrastructure projects
-- Sharpening my work around solutions architecture, automation, and practical LLM systems
-- Open to Solutions Architect, Solutions Engineer, GTM Engineer, and AI-focused roles
-- Based in New Orleans, available remote
+* Building AI-enabled products, tools, and business automations
+* Exploring modern solutions architecture patterns
+* Developing practical LLM workflows and agent systems
+* Turning private product work into public demos, case studies, and architecture writeups
+* Open to Solutions Architect, Solutions Engineer, GTM Engineer, and AI-focused opportunities
+
+---
+
+## 🌐 Find Me Elsewhere
+
+**Portfolio:** https://benhankins.dev
+
+**LinkedIn:** https://www.linkedin.com/in/ben-hankins/
+
+**GitHub:** https://github.com/WBHankins93
+
+**Sproutflow Studio:** https://www.sproutflow-studio.com/
+
+**Greenlit:** https://greenlit.cv/
